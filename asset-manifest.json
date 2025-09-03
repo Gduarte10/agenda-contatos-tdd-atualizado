@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/agenda-contatos-tdd-atualizado/static/css/main.9519c338.css",
+    "main.js": "/agenda-contatos-tdd-atualizado/static/js/main.90e29cce.js",
+    "static/js/453.9966b9b5.chunk.js": "/agenda-contatos-tdd-atualizado/static/js/453.9966b9b5.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/agenda-contatos-tdd-atualizado/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/agenda-contatos-tdd-atualizado/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/agenda-contatos-tdd-atualizado/index.html",
+    "main.9519c338.css.map": "/agenda-contatos-tdd-atualizado/static/css/main.9519c338.css.map",
+    "main.90e29cce.js.map": "/agenda-contatos-tdd-atualizado/static/js/main.90e29cce.js.map",
+    "453.9966b9b5.chunk.js.map": "/agenda-contatos-tdd-atualizado/static/js/453.9966b9b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9519c338.css",
+    "static/js/main.90e29cce.js"
+  ]
+}
